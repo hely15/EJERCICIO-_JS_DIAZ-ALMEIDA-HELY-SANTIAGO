@@ -1,11 +1,5 @@
 Cumple con hacer la verificacion si es equilibrada o no es equilibrada pero ["(",")"] esta es la forma correcta de entregarle los caracteres para que puedea realizar el proceso de verificacion. :) pido PIEDAD 
-/
-/
-/
-/
-/
-/
-/
+
 Crear una función que reciba una expresión y determine si sus delimitadores (paréntesis () ,
 
 llaves {} , y corchetes [] ) están equilibrados. La función debe devolver True si están
